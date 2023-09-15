@@ -9,5 +9,7 @@ std::vector<bool> GreaterMask(std::vector<int> nums, int greater_than);
 
 int main(){
     //call each of the above functions
-    return 3;
+
+    return 4;
+
 }
